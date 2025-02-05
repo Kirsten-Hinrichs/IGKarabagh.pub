@@ -1,0 +1,2350 @@
+{
+  "218-atlar": [
+    {
+      "name": "\"Yashar\" 3",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen17371",
+      "U.-Number": 2332508,
+      "father": "Alyetmez 2",
+      "mother": "Asuda"
+    },
+    {
+      "name": "? (Brand 02)",
+      "year of birth": 2005,
+      "sex": "mare",
+      "GeneControl": "Gen15342",
+      "U.-Number": 2320007,
+      "mother": "Shimshak",
+      "note": "father unknown"
+    },
+    {
+      "name": "? (Brand 3)",
+      "year of birth": 2005,
+      "sex": "mare",
+      "GeneControl": "Gen15345",
+      "U.-Number": 2320207,
+      "father": "Senat (218)",
+      "mother": "Shanli 2",
+      "note": "mother wrong"
+    },
+    {
+      "name": "? (Brand 4)",
+      "year of birth": 2005,
+      "sex": "mare",
+      "GeneControl": "Gen15335",
+      "U.-Number": 2319307,
+      "father": "Senat (218)",
+      "mother": "Shala"
+    },
+    {
+      "name": "Ada (54)",
+      "year of birth": 2000,
+      "sex": "stallion",
+      "GeneControl": "Gen13995",
+      "U.-Number": 232707,
+      "father": "Kjapaz (95) ?",
+      "mother": "Ashma 2 (278) ?"
+    },
+    {
+      "name": "Adli ",
+      "year of birth": 1997,
+      "sex": "mare",
+      "GeneControl": "Gen15368",
+      "U.-Number": 2350007,
+      "father": "Sham ?",
+      "mother": "Arenda (272)"
+    },
+    {
+      "name": "Adlik",
+      "year of birth": 1999,
+      "sex": "stallion",
+      "GeneControl": "Gen15341",
+      "U.-Number": 2319907,
+      "father": "Sham ?",
+      "mother": "Alma 2 (265)"
+    },
+    {
+      "name": "Afad",
+      "sex": "mare",
+      "GeneControl": "Gen116668"
+    },
+    {
+      "name": "Agridag",
+      "year of birth": 2007,
+      "sex": "stalion",
+      "GeneControl": "Gen17367",
+      "U.-Number": 2332108,
+      "father": "Aliyetmez 2 (Sahil)",
+      "mother": "Asta 2"
+    },
+    {
+      "name": "Al-Buxara",
+      "year of birth": 2021,
+      "GeneControl": "Gen116633",
+      "U.-Number": 2148021,
+      "father": "Khan-Khan (296) ",
+      "mother": "Aralig"
+    },
+    {
+      "name": "Alcha 3",
+      "year of birth": 2001,
+      "sex": "?",
+      "GeneControl": "Gen10823",
+      "U.-Number": 2212605,
+      "father": "Karabin",
+      "mother": "Aypara ",
+      "mother 2": "x",
+      "note": "father wrong "
+    },
+    {
+      "name": "Algish",
+      "year of birth": 2017,
+      "sex": "stallion",
+      "GeneControl": "Gen116637",
+      "U.-Number": 2148421,
+      "father": "Shan wrong",
+      "mother": "Asllan wrong",
+      "note": "both parents wrong"
+    },
+    {
+      "name": "Aliyetmez 2 (168)",
+      "year of birth": 2002,
+      "sex": "stallion",
+      "GeneControl": "Gen13262",
+      "U.-Number": 2400906,
+      "father": "Saturn (80)",
+      "mother": "Sena (424)"
+    },
+    {
+      "name": "Altun 2",
+      "year of birth": 2012,
+      "sex": "mare",
+      "GeneControl": "Gen34286",
+      "U.-Number": 498913,
+      "father": "Adliq (93)",
+      "mother": "Dafina"
+    },
+    {
+      "name": "Anbar",
+      "year of birth": 2017,
+      "sex": "mare",
+      "GeneControl": "Gen116666",
+      "U.-Number": 2151421,
+      "father": "Sham ?",
+      "mother": "Ayseli",
+      "mother 2": "x"
+    },
+    {
+      "name": "Antik (63)",
+      "year of birth": 2000,
+      "sex": "stallion",
+      "GeneControl": "Gen34283",
+      "father": "Sham?",
+      "mother": "Arenda ?"
+    },
+    {
+      "name": "Aralig",
+      "year of birth": 2008,
+      "sex": "mare",
+      "GeneControl": "Gen116632",
+      "U.-Number": 2147921,
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Arenda",
+      "sex": "mare",
+      "GeneControl": "Gen29044",
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Armud",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen116665",
+      "U.-Number": 2151321,
+      "father": "Lovga (340) wrong",
+      "mother": "Asda  ?",
+      "mother 2": "x",
+      "note": "father wrong "
+    },
+    {
+      "name": "Arzurum",
+      "year of birth": 2007,
+      "sex": "stallion",
+      "GeneControl": "Gen17376",
+      "U.-Number": 2333008,
+      "father": "Sahil 3"
+    },
+    {
+      "name": "Asda",
+      "sex": "mare",
+      "GeneControl": "Gen116676",
+      "mother 2": "x"
+    },
+    {
+      "name": "Ashirma",
+      "year of birth": 2008,
+      "sex": "mare",
+      "GeneControl": "Gen109333",
+      "U.-Number": "U.-N 0000820",
+      "father": "Sinabend?",
+      "mother": "Aghtarma ?",
+      "note": "parents not tested yet"
+    },
+    {
+      "name": "Asiya 2",
+      "year of birth": 2013,
+      "sex": "mare",
+      "GeneControl": "Gen116626",
+      "U.-Number": 2147321,
+      "father": "Gar-gar (79) wrong",
+      "mother": "Ayseli",
+      "mother 2": "x",
+      "note": "father wrong"
+    },
+    {
+      "name": "Asta 2",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen15344",
+      "U.-Number": 2320107,
+      "father": "Senat (218)",
+      "mother": "Aypara"
+    },
+    {
+      "name": "Aslan",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116638",
+      "U.-Number": 2148521,
+      "father": "Saturn (80) wrong",
+      "mother": "Afad ?",
+      "note": "father wrong / mother ?"
+    },
+    {
+      "name": "Asli",
+      "sex": "mare",
+      "GeneControl": "Gen096132",
+      "U.-Number": 369317,
+      "father": "?",
+      "mother": "Kaspi 2 von Sal-Sal",
+      "mother 2": "x"
+    },
+    {
+      "name": "Asuda",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen15336",
+      "U.-Number": 1559814,
+      "father": "Karabin",
+      "mother": "Skop (Skopka)"
+    },
+    {
+      "name": "Kapaz  ",
+      "sex": "mare",
+      "GeneControl": "Gen32086",
+      "mother 2": "??",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Ayna (AZ282)",
+      "year of birth": 2000,
+      "sex": "mare",
+      "GeneControl": "Gen40853",
+      "U.-Number": 23115,
+      "father": "Sham?",
+      "mother": "Aypara 1"
+    },
+    {
+      "name": "Ayna 2",
+      "year of birth": 1999,
+      "sex": "mare",
+      "GeneControl": "Gen15339",
+      "U.-Number": 2319807,
+      "father": "Sent",
+      "note": "father wrong "
+    },
+    {
+      "name": "Aynali 4",
+      "year of birth": 1999,
+      "sex": "mare",
+      "GeneControl": "Gen10813",
+      "U.-Number": 2211605,
+      "father": "Kjapaz (95)",
+      "mother": "Säslä ?"
+    },
+    {
+      "name": "Aynur",
+      "year of birth": 2020,
+      "sex": "mare",
+      "GeneControl": "Gen110486",
+      "U.-Number": 927420,
+      "father": "Sareyin",
+      "mother": "Ashirma"
+    },
+    {
+      "name": "Aypara (284)",
+      "year of birth": 1989,
+      "sex": "mare",
+      "GeneControl": "Gen22119",
+      "U.-Number": 2211705,
+      "father": "Paris (124)",
+      "mother": "Ansamble (269)"
+    },
+    {
+      "name": "Aypara 4",
+      "year of birth": 1988,
+      "sex": "mare",
+      "GeneControl": "AZ284",
+      "U.-Number": 131715
+    },
+    {
+      "name": "Aypara 4 (284)",
+      "year of birth": 1988,
+      "sex": "mare",
+      "GeneControl": "Gen10814",
+      "U.-Number": 2211705,
+      "father": "Paris (124)",
+      "mother": "Ansamble (269) ?"
+    },
+    {
+      "name": "Ayseli",
+      "year of birth": 2004,
+      "sex": "mare",
+      "GeneControl": "Gen116667",
+      "U.-Number": 2151521,
+      "father": "Samaljot ?",
+      "mother": "Arenda ?",
+      "mother 2": "x",
+      "note": "parents not tested yet"
+    },
+    {
+      "name": "Azamat 1",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "father": "Aliyetmez 2 (Sahil)",
+      "mother": "Skop (Skopka) 11"
+    },
+    {
+      "name": "Azamat 2",
+      "year of birth": 2015,
+      "sex": "stallion",
+      "GeneControl": "Gen103982",
+      "U.-Number": 110219,
+      "father": "Sarab",
+      "mother": "Katrin von Karabin"
+    },
+    {
+      "name": "Babre-Kaleybar",
+      "year of birth": 2012,
+      "sex": "stallion",
+      "GeneControl": "Gen34212",
+      "U.-Number": 347013,
+      "father": "Adlik",
+      "mother": "Sorma"
+    },
+    {
+      "name": "Besarkecher",
+      "year of birth": 2013,
+      "sex": "stallion",
+      "GeneControl": "Gen34205",
+      "U.-Number": 346413,
+      "father": "Ilderim",
+      "mother": "Leylek"
+    },
+    {
+      "name": "Buta (Supurga)",
+      "year of birth": 2011,
+      "sex": "mare",
+      "U.-Number": 346813,
+      "father": "Saturn (80)",
+      "mother": "Susma (470) ?",
+      "mother 2": "x"
+    },
+    {
+      "name": "Cesur",
+      "year of birth": 2014,
+      "sex": "stallion",
+      "father": "Saat  ",
+      "mother": "Asuda",
+      "note": "not tested"
+    },
+    {
+      "name": "Dafina",
+      "year of birth": 2006,
+      "sex": "mare",
+      "GeneControl": "Gen34282",
+      "U.-Number": 498713,
+      "father": "Antik (63)",
+      "mother": "Donma"
+    },
+    {
+      "name": "Daglar",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen31497",
+      "U.-Number": 717212,
+      "father": "Karabin ",
+      "mother": "Solgun"
+    },
+    {
+      "name": "Darya",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen34284",
+      "U.-Number": 499913,
+      "father": "Aliyetmez 2",
+      "mother": "Dafina"
+    },
+    {
+      "name": "Demir",
+      "year of birth": 2019,
+      "sex": "mare",
+      "GeneControl": "Gen116654",
+      "U.-Number": 2150221,
+      "father": "Khan-Khan (296)",
+      "mother": "Shahnaz"
+    },
+    {
+      "name": "Domino",
+      "year of birth": 2007,
+      "sex": "stallion",
+      "GeneControl": "Gen15369",
+      "U.-Number": 2350107,
+      "mother": "Adli"
+    },
+    {
+      "name": "Donar",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116647",
+      "U.-Number": 2149421,
+      "father": "Shan",
+      "mother": "Durujba"
+    },
+    {
+      "name": "Durujba",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen116646",
+      "U.-Number": 2149321,
+      "father": "Saturin (80)",
+      "mother": "Dirnag ?"
+    },
+    {
+      "name": "Elenya",
+      "year of birth": 2014,
+      "sex": "mare",
+      "U.-Number": 1275214,
+      "father": "Serko",
+      "mother": "Ebony-Aisha ox (arab)"
+    },
+    {
+      "name": "Elnara",
+      "year of birth": 2015,
+      "sex": "mare",
+      "U.-Number": 690918,
+      "father": "Serko",
+      "mother": "Ebony-Aisha ox (arab)"
+    },
+    {
+      "name": "Elya",
+      "year of birth": 2007,
+      "sex": "mare",
+      "GeneControl": "Gen20124",
+      "U.-Number": 2427509,
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Gar-Gar (79)",
+      "year of birth": 2001,
+      "sex": "stallion",
+      "GeneControl": "Gen23031",
+      "U.-Number": 1594210,
+      "father": "Kjapaz (95)",
+      "mother": "Gala (371)",
+      "note": "not tested"
+    },
+    {
+      "name": "Gargashli",
+      "year of birth": 2006,
+      "sex": "mare",
+      "GeneControl": "Gen12542",
+      "U.-Number": 1945806,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Gaygi",
+      "year of birth": 2018,
+      "sex": "mare",
+      "GeneControl": "Gen116640",
+      "U.-Number": 2148721,
+      "father": "Shan wrong",
+      "mother": "Sedamm",
+      "mother 2": "x",
+      "note": "father wrong"
+    },
+    {
+      "name": "Gelem",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116663",
+      "U.-Number": 2151121,
+      "father": "Armud wrong",
+      "mother": "Spichka wrong",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Ilderim",
+      "year of birth": 2005,
+      "sex": "stallion",
+      "GeneControl": "Gen13261",
+      "U.-Number": 2400806,
+      "father": "Senat (218)",
+      "mother": "Skop/ka "
+    },
+    {
+      "name": "Inturist (48",
+      "year of birth": 1985,
+      "sex": "stallion",
+      "GeneControl": "Gen10791",
+      "U.-Number": 2209405,
+      "father": "Paris (124)",
+      "mother": "Skentchewi (428)",
+      "note": "not tested"
+    },
+    {
+      "name": "Jeyran",
+      "sex": "mare",
+      "GeneControl": "Gen10788",
+      "U.-Number": 2209105,
+      "mother": "Sosna",
+      "mother 2": "x"
+    },
+    {
+      "name": "Kalak",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116629",
+      "U.-Number": 2147621,
+      "father": "Gar-gar (79)",
+      "mother 2": "x"
+    },
+    {
+      "name": "Kamel",
+      "year of birth": 1992,
+      "sex": "mare",
+      "GeneControl": "Gen10816",
+      "U.-Number": 2211905,
+      "father": "Zogal (268)",
+      "mother": "Kamantcha (510)"
+    },
+    {
+      "name": "Kameta 2",
+      "year of birth": 2003,
+      "sex": "mare",
+      "GeneControl": "Gen20122",
+      "U.-Number": 2427309,
+      "father": "Gar-gar (79)",
+      "mother": "Kasir von Samalyot"
+    },
+    {
+      "name": "Kapaz (203)",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen29033",
+      "U.-Number": 1615611,
+      "father": "Kjapaz (95)",
+      "mother": "Gala (371)"
+    },
+    {
+      "name": "Kapsula",
+      "year of birth": "?",
+      "sex": "mare",
+      "GeneControl": "Gen39165",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Karabin 2 MNM (89)",
+      "year of birth": 1985,
+      "sex": "stallion",
+      "GeneControl": "Gen10810",
+      "U.-Number": 2211305,
+      "father": "Sal-Sal (42) ?",
+      "mother": "Gapaghle (211)?",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Karandash",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116628",
+      "U.-Number": 2147521,
+      "father": "Shan",
+      "mother": "Kalak"
+    },
+    {
+      "name": "Karat 1",
+      "year of birth": 2005,
+      "sex": "stallion",
+      "father": "Karabin 2 MNM (89) ?",
+      "mother": "Sahna (411)?"
+    },
+    {
+      "name": "Karat 2",
+      "year of birth": 2019,
+      "sex": "stallion",
+      "GeneControl": "Gen116639",
+      "U.-Number": 2148621,
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Kasa 3 (236)",
+      "year of birth": 2006,
+      "sex": "mare",
+      "GeneControl": "Gen29074",
+      "U.-Number": 1618911,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Kelme 1 (323)",
+      "year of birth": 1984,
+      "sex": "mare",
+      "father": "Shaghbulag (25) ?",
+      "mother": "Kosale (127)"
+    },
+    {
+      "name": "Kelme 2 (323A???)",
+      "year of birth": 1984,
+      "sex": "mare",
+      "GeneControl": "AZ323A",
+      "U.-Number": 716612,
+      "father": "Saptiz",
+      "mother": "Sarpintsch"
+    },
+    {
+      "name": "Keramez",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116659",
+      "U.-Number": 2150721,
+      "father": "Shan",
+      "mother": "Semeni 2",
+      "mother 2": "x"
+    },
+    {
+      "name": "Khan-Khan (296)",
+      "year of birth": 2011,
+      "sex": "stallion",
+      "GeneControl": "Gen31156",
+      "U.-Number": 489912,
+      "father": "Adlik (57)",
+      "mother": "Asta 2"
+    },
+    {
+      "name": "Khatun",
+      "year of birth": 2013,
+      "sex": "stalion",
+      "GeneControl": "Gen34203",
+      "U.-Number": 346213,
+      "father": "Adlik (57)",
+      "mother": "Sultanqiz"
+    },
+    {
+      "name": "Khazri (14)",
+      "year of birth": 2006,
+      "sex": "stallion",
+      "GeneControl": "Gen22035",
+      "U.-Number": 771610,
+      "father": "Senat (218)",
+      "mother": "Sosna 3 (454)"
+    },
+    {
+      "name": "Kilinch",
+      "year of birth": 2019,
+      "GeneControl": "Gen116645",
+      "U.-Number": 2149221,
+      "father": "Armud",
+      "mother": "Kiya",
+      "mother 2": "x"
+    },
+    {
+      "name": "Kirli (222)",
+      "year of birth": 1970,
+      "sex": "mare",
+      "GeneControl": "Gen28957",
+      "U.-Number": 1617511,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Kiya",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116634",
+      "U.-Number": 2148121,
+      "father": "Gar-gar (79)",
+      "mother": "Kirli",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Kristal",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116652",
+      "U.-Number": 2150021,
+      "father": "Lovga (340) wrong",
+      "mother": "Kapsula ?",
+      "mother 2": "x",
+      "note": "father wrong mother ?"
+    },
+    {
+      "name": "Lachin (281)",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen31136",
+      "U.-Number": 488412,
+      "father": "Gar-gar (79)",
+      "mother": "Linza (64) wrong",
+      "mother 2": "Leva (137) wrong",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Lacin = Lachin",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen34211",
+      "U.-Number": 346913,
+      "father": "Gar-gar (79)",
+      "mother": "Linza (64)",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Lala (Brand 72)",
+      "year of birth": 2003,
+      "sex": "mare",
+      "GeneControl": "Gen17368",
+      "U.-Number": 2332208,
+      "father": "Samaljot",
+      "mother": "Lirica"
+    },
+    {
+      "name": "Lepir (AZ118a)",
+      "year of birth": 2000,
+      "sex": "stallion",
+      "GeneControl": "Gen40854",
+      "U.-Number": 23215,
+      "father": "Sham ",
+      "mother": "Lupa /AZ352)?"
+    },
+    {
+      "name": "Leylek 3",
+      "year of birth": 2007,
+      "sex": "mare",
+      "GeneControl": "Gen20123",
+      "U.-Number": 2427409,
+      "father": "Saturn (80)",
+      "mother": "Leyle "
+    },
+    {
+      "name": "Limana",
+      "year of birth": 2012,
+      "sex": "mare",
+      "GeneControl": "Gen116630",
+      "U.-Number": 2147721,
+      "father": "Saturn (80) wrong",
+      "mother": "Shabran wrong",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Lövga = Lovga",
+      "year of birth": 2002,
+      "sex": "stallion",
+      "GeneControl": "Gen116648",
+      "U.-Number": 2149521,
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Lovga (340??)",
+      "year of birth": 2002,
+      "sex": "stallion",
+      "GeneControl": "Gen33980",
+      "U.-Number": 284313,
+      "father": "Sinabend?",
+      "mother": "Lirika?"
+    },
+    {
+      "name": "Lüks",
+      "year of birth": 2002,
+      "sex": "stallion",
+      "GeneControl": "Gen20000",
+      "U.-Number": 2354509,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Mehri",
+      "year of birth": 2016,
+      "sex": "mare",
+      "GeneControl": "Gen096133",
+      "U.-Number": 369417,
+      "father": "Sarab",
+      "mother": "Asli von ?"
+    },
+    {
+      "name": "Murov",
+      "year of birth": 2011,
+      "sex": "stalion",
+      "GeneControl": "Gen34204",
+      "U.-Number": 346313,
+      "father": "Adlik",
+      "mother": "Shala"
+    },
+    {
+      "name": "Naxish",
+      "year of birth": 2006,
+      "sex": "mare",
+      "GeneControl": "Gen15366",
+      "U.-Number": 2349807,
+      "father": "Bruklyn ox (Arab)",
+      "mother": "Niva"
+    },
+    {
+      "name": "Nazli",
+      "year of birth": 2019,
+      "sex": "mare",
+      "GeneControl": "Gen116635",
+      "U.-Number": 2148221,
+      "father": "Sarab",
+      "mother": "Shahnaz 1"
+    },
+    {
+      "name": "Notarius",
+      "year of birth": 1998,
+      "sex": "stallion",
+      "GeneControl": "Gen34199",
+      "U.-Number": 345913,
+      "father": "Aspekt",
+      "mother": "Navigazija"
+    },
+    {
+      "name": "Pambiq",
+      "year of birth": "?",
+      "sex": "mare",
+      "GeneControl": "Gen19999",
+      "U.-Number": 2149921,
+      "father": "Lovga (340)",
+      "mother": "Kristal",
+      "mother 2": "x"
+    },
+    {
+      "name": "Pistolet 2",
+      "year of birth": 2005,
+      "sex": "stallion",
+      "GeneControl": "Gen15347",
+      "U.-Number": 2320307
+    },
+    {
+      "name": "Piyada 2",
+      "year of birth": 2020,
+      "sex": "mare",
+      "GeneControl": "Gen116660",
+      "U.-Number": 2150821,
+      "father": "Lovga (340) wrong",
+      "mother": "Pramida",
+      "mother 2": "x",
+      "note": "father wrong"
+    },
+    {
+      "name": "Piyar",
+      "year of birth": 2021,
+      "sex": "mare",
+      "GeneControl": "Gen116653",
+      "U.-Number": 2150121,
+      "father": "Basarkecher",
+      "mother": "Pramida",
+      "mother 2": "x"
+    },
+    {
+      "name": "Pramida",
+      "year of birth": 2014,
+      "sex": "mare",
+      "GeneControl": "Gen116661",
+      "U.-Number": 2150921,
+      "father": "Safran",
+      "mother": "Piyada",
+      "mother 2": "x"
+    },
+    {
+      "name": "Qalxan",
+      "year of birth": 2009,
+      "sex": "stallion",
+      "GeneControl": "Gen20001",
+      "U.-Number": 2354609
+    },
+    {
+      "name": "Qaragöz",
+      "year of birth": "?",
+      "sex": "mare",
+      "GeneControl": "Gen20002",
+      "U.-Number": 2354709
+    },
+    {
+      "name": "Saat",
+      "sex": "stallion",
+      "GeneControl": "Gen34202",
+      "U.-Number": "0346 113",
+      "father": "Senat (218)",
+      "mother": "Sosna (435)"
+    },
+    {
+      "name": "Saat",
+      "year of birth": "?",
+      "sex": "stalion",
+      "GeneControl": "Gen34202",
+      "U.-Number": 346113,
+      "father": "Senat (218)",
+      "mother": "Sosna (435)"
+    },
+    {
+      "name": "Sabzi 2",
+      "year of birth": 1998,
+      "sex": "mare",
+      "GeneControl": "Gen15364",
+      "U.-Number": 2349607,
+      "father": "Sham",
+      "mother": "Sirga II",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Sabzi 3",
+      "year of birth": 1998,
+      "sex": "mare",
+      "GeneControl": "Gen15364",
+      "U.-Number": 1559514,
+      "father": "Sham ?",
+      "mother": "Sirga II wrong",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Sachak",
+      "year of birth": 2001,
+      "sex": "stallion",
+      "GeneControl": "GEen19995",
+      "U.-Number": 2354009,
+      "father": "Leysan (116) ?",
+      "mother": "Secha 2 (425) wrong"
+    },
+    {
+      "name": "Sachaq",
+      "year of birth": 2001,
+      "sex": "stallion",
+      "GeneControl": "Gen19995",
+      "U.-Number": 2354009
+    },
+    {
+      "name": "Safak",
+      "year of birth": 2009,
+      "sex": "stallion",
+      "GeneControl": "Gen19996",
+      "U.-Number": 2354109,
+      "father": "Aliyetmez 2 (Sahil)",
+      "mother": "Sahna (411)"
+    },
+    {
+      "name": "Safaq",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen19996",
+      "U.-Number": 2354109
+    },
+    {
+      "name": "Safran ",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen116662",
+      "U.-Number": 2151021,
+      "father": "Aliyetmez 2 (Sahil)",
+      "mother": "Shalala",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sagh-ol / Zafar",
+      "year of birth": 2013,
+      "sex": "stallion",
+      "GeneControl": "Gen 34262",
+      "U.-Number": 422313,
+      "father": "Peshwaz (127)",
+      "mother": "Sevin von Inturist (84)"
+    },
+    {
+      "name": "Sahar",
+      "sex": "mare",
+      "GeneControl": "Gen31141",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sahil 2 (Sent) (168)",
+      "sex": "stallion",
+      "GeneControl": "Gen13265",
+      "U.-Number": 2401006,
+      "father": "Veksil ox",
+      "mother": "Sena (424)"
+    },
+    {
+      "name": "Sahil 3",
+      "year of birth": 2002,
+      "sex": "stallion",
+      "GeneControl": "Gen13262",
+      "U.-Number": 2400906,
+      "father": "Saturin (187)",
+      "mother": "Sena (424)"
+    },
+    {
+      "name": "Sahna (411)",
+      "year of birth": 1995,
+      "sex": "mare",
+      "GeneControl": "Gen19997",
+      "U.-Number": 2354209,
+      "father": "Sham (254)",
+      "mother": "Skaska (436)"
+    },
+    {
+      "name": "Salam",
+      "year of birth": 2017,
+      "sex": "stallion",
+      "GeneControl": "Gen096720",
+      "U.-Number": 831217,
+      "father": "Serko",
+      "mother": "Sirli -Elite"
+    },
+    {
+      "name": "Samalyot 2 (196)",
+      "year of birth": 1992,
+      "sex": "stallion",
+      "GeneControl": "Gen15343",
+      "father": "Paris (124) ?",
+      "mother": "Sir-Sira (440)?"
+    },
+    {
+      "name": "Samalyoz = Samalyot??",
+      "sex": "stallion",
+      "GeneControl": "Gen116672"
+    },
+    {
+      "name": "Samara 1 = Samara 2?",
+      "year of birth": 1991,
+      "sex": "mare",
+      "GeneControl": "Gen15334",
+      "U.-Number": 2319207,
+      "mother 2": "x"
+    },
+    {
+      "name": "Samara 2",
+      "year of birth": 1997,
+      "sex": "mare",
+      "GeneControl": "Gen15334",
+      "U.-Number": 2319207,
+      "father": "Sanak 1 ?"
+    },
+    {
+      "name": "Samarkand 2 (195)",
+      "year of birth": 1984,
+      "sex": "stallion",
+      "father": "Sal-Sal (42) ?",
+      "mother": "Sapanda 2 (242)"
+    },
+    {
+      "name": "Sanak 2",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen15333 + 13265",
+      "U.-Number": "2319107/2401006",
+      "father": "Senat (218) wrong",
+      "mother": "Samara 2",
+      "mother 2": "x",
+      "note": "father is not correct"
+    },
+    {
+      "name": "Sandig",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116657",
+      "U.-Number": 2150021,
+      "father": "Saturin (187) wrong",
+      "mother": "Sayig    ",
+      "note": "father wrong   "
+    },
+    {
+      "name": "Saniye",
+      "year of birth": 2004,
+      "sex": "mare",
+      "father": "Senat (218)",
+      "mother": "Sirga 5"
+    },
+    {
+      "name": "Sanzis 2 (418)",
+      "year of birth": 1984,
+      "sex": "mare",
+      "father": "Saptiz (45)",
+      "mother": "Sarnitch (159)"
+    },
+    {
+      "name": "Sapfir",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen20003",
+      "U.-Number": 2354809,
+      "father": "Sachak",
+      "mother": "Pambiq"
+    },
+    {
+      "name": "Sapilca (395) (Savashma)",
+      "year of birth": 1976,
+      "sex": "mare",
+      "GeneControl": "Gen34206",
+      "father": "Manometer ox arab",
+      "mother": "Sapanda 3 (244)"
+    },
+    {
+      "name": "Sarab",
+      "year of birth": 2005,
+      "sex": "stallion",
+      "GeneControl": "Gen13267",
+      "U.-Number": 2401106,
+      "father": "Senat (218)",
+      "mother": "Satma"
+    },
+    {
+      "name": "Saraj",
+      "year of birth": 2000,
+      "sex": "mare",
+      "GeneControl": "Gen10819",
+      "U.-Number": 2212205,
+      "father": "Senat (218)",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sareyin",
+      "year of birth": 2012,
+      "sex": "stallion",
+      "GeneControl": "Gen34213",
+      "U.-Number": 347113,
+      "father": "Sarab",
+      "mother": "Asuda or Sorma???"
+    },
+    {
+      "name": "Saritel 2",
+      "year of birth": 2019,
+      "sex": "mare",
+      "father": "Ashirma",
+      "mother": "Sart (342)",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sarpintsch",
+      "year of birth": 1975,
+      "sex": "mare",
+      "GeneControl": "AZ246K"
+    },
+    {
+      "name": "Sarsilmaz 4",
+      "year of birth": 2013,
+      "sex": "stallion",
+      "GeneControl": "Gen090518",
+      "U.-Number": 2282415,
+      "father": "Sarab",
+      "mother": "Solgun"
+    },
+    {
+      "name": "Saritel 3",
+      "year of birth": 2019,
+      "sex": "mare",
+      "GeneControl": "Gen116642",
+      "U.-Number": 2148921,
+      "father": "Sart (342)",
+      "mother": "Ashirma",
+      "note": "father wrong"
+    },
+    {
+      "name": "Sart (342)",
+      "year of birth": 2005,
+      "sex": "stallion",
+      "GeneControl": "Gen33984",
+      "U.-Number": 284513,
+      "father": "Sinabend?",
+      "mother": "Satira?"
+    },
+    {
+      "name": "Sarvan 3",
+      "year of birth": 2016,
+      "sex": "gelding",
+      "GeneControl": "GEN092715",
+      "U.-Number": 201610216,
+      "father": "Ada (54)",
+      "mother": "Sirli (Elite)"
+    },
+    {
+      "name": "Sasha",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116656",
+      "U.-Number": 2150421,
+      "father": "Lovga (340)",
+      "mother": "Sandig"
+    },
+    {
+      "name": "Satma 2 (404)",
+      "year of birth": 1993,
+      "sex": "mare",
+      "GeneControl": "Gen10817",
+      "U.-Number": 2212005,
+      "father": "Paris (124) ?",
+      "mother": "Sevimli wrong",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Saturin (80)",
+      "year of birth": 1997,
+      "sex": "stallion",
+      "GeneControl": "GEN23032",
+      "U.-Number": 1594310,
+      "father": "Sham (254) ?",
+      "mother": "Sharada ?"
+    },
+    {
+      "name": "Savalan ",
+      "year of birth": 2001,
+      "sex": "stallion",
+      "GeneControl": "Gen14262",
+      "U.-Number": 1696707,
+      "father": "Inturist (84)",
+      "mother": "Sliva (448)"
+    },
+    {
+      "name": "Saxara (302)",
+      "year of birth": 2004,
+      "sex": "mare",
+      "GeneControl": "Gen31165",
+      "U.-Number": 490512,
+      "father": "Gachagan (370a)",
+      "mother": "Sema (416)"
+    },
+    {
+      "name": "Sayig",
+      "year of birth": 2002,
+      "sex": "mare",
+      "GeneControl": "Gen116644",
+      "U.-Number": 2149121,
+      "father": "Sinabend 2 (231) ?",
+      "mother": "Sapiltscha ?"
+    },
+    {
+      "name": "Seddam",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen116641",
+      "U.-Number": 2148821,
+      "father": "Gar-gar (79)",
+      "mother": "Sola",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sederek",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116643",
+      "U.-Number": 2149021,
+      "father": "Lovga (340)",
+      "mother": "Sayig    "
+    },
+    {
+      "name": "Sefali",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen39329",
+      "U.-Number": 1559614,
+      "father": "Adlik (57)",
+      "mother": "Sabzi 3 "
+    },
+    {
+      "name": "Sehman",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen39330",
+      "U.-Number": 1559714,
+      "father": "Aliyetmez 2",
+      "mother": "Asuda wrong"
+    },
+    {
+      "name": "Selbasar",
+      "year of birth": 2013,
+      "sex": "stallion",
+      "GeneControl": "Gen34207",
+      "U.-Number": 346613,
+      "father": "Gar-gar (79)",
+      "mother": "Sesle "
+    },
+    {
+      "name": "Semeni 2",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116658",
+      "U.-Number": 2150621,
+      "father": "Lovga (340) wrong",
+      "mother": "Solmaz (67)",
+      "mother 2": "x",
+      "note": "father wrong "
+    },
+    {
+      "name": "Sena (424)",
+      "sex": "mare",
+      "GeneControl": "Gen13264",
+      "father": "Saptiz (45)",
+      "mother": "Sisma2 (434)"
+    },
+    {
+      "name": "Sent / Sahil2 (219)",
+      "year of birth": 2000,
+      "sex": "stallion",
+      "GeneControl": "Gen13265",
+      "U.-Number": 2401006,
+      "father": "Kjapaz (95) ?",
+      "mother": "Secha 2 (425) ?"
+    },
+    {
+      "name": "Senat",
+      "year of birth": 1991,
+      "sex": "stallion",
+      "GeneControl": "Gen10809",
+      "U.-Number": 2211205,
+      "father": "Paris (124) ?",
+      "mother": "Sapilca / Savashma (395)"
+    },
+    {
+      "name": "Serko",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen21714",
+      "U.-Number": 362310,
+      "father": "Gartal 2 (138a)",
+      "mother": "Sirli-Elite"
+    },
+    {
+      "name": "Sesle",
+      "year of birth": 1997,
+      "sex": "mare",
+      "GeneControl": "Gen25838",
+      "U.-Number": 346513,
+      "father": "Sham ?",
+      "mother": "Sapilca"
+    },
+    {
+      "name": "Sevda",
+      "year of birth": 2012,
+      "sex": "mare",
+      "GeneControl": "Gen30782",
+      "U.-Number": 207812,
+      "father": "Pushkin von Gartal 2",
+      "mother": "Sirli (Elite)"
+    },
+    {
+      "name": "Sevgi",
+      "year of birth": 2020,
+      "sex": "mare",
+      "father": "Gartal 2 (138a)",
+      "mother": "Sabah von Peshwaz"
+    },
+    {
+      "name": "Sevimli",
+      "year of birth": 1985,
+      "sex": "mare",
+      "GeneControl": "Gen10811",
+      "U.-Number": 2211405,
+      "father": "Saptiz (45) ?",
+      "mother": "Sarpintsch (246) ?"
+    },
+    {
+      "name": "Sevin",
+      "year of birth": 2004,
+      "sex": "mare",
+      "GeneControl": "Gen11290",
+      "U.-Number": 2649505,
+      "father": "Inturist (84)",
+      "mother": "Sliva (448)"
+    },
+    {
+      "name": "Seylon",
+      "year of birth": 2006,
+      "sex": "mare",
+      "GeneControl": "Gen15361",
+      "U.-Number": 2349307,
+      "father": "Saturn (80)",
+      "mother": "Sarigül 2 (398)"
+    },
+    {
+      "name": "Seyyare",
+      "year of birth": 2005,
+      "sex": "mare",
+      "GeneControl": "Gen17378",
+      "father": "Senat (218)",
+      "mother": "Ayna 1 (282)"
+    },
+    {
+      "name": "Shabran",
+      "year of birth": 2012,
+      "sex": "mare",
+      "GeneControl": "Gen116631",
+      "U.-Number": 2147821,
+      "father": "Gar-Gar (79) wrong",
+      "mother": "Shalala wrong",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Shafran (26)",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen22060",
+      "U.-Number": 772810,
+      "father": "Aliyetmez 2",
+      "mother": "Shana 2"
+    },
+    {
+      "name": "Shahin",
+      "year of birth": 2014,
+      "sex": "stallion",
+      "GeneControl": "Gen39148",
+      "U.-Number": 1279114,
+      "father": "Ada (54)",
+      "mother": "Sirli (Elite)"
+    },
+    {
+      "name": "Shan",
+      "year of birth": 2009,
+      "sex": "stallion",
+      "GeneControl": "Gen116651",
+      "U.-Number": 2149821,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Shanli 2",
+      "sex": "mare",
+      "GeneControl": "Gen15306",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Shahnaz 1",
+      "year of birth": 2005,
+      "sex": "mare",
+      "GeneControl": "Gen15331",
+      "U.-Number": 2318907,
+      "father": "Ada",
+      "mother": "Shalala"
+    },
+    {
+      "name": "Shahnaz 2",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116655",
+      "U.-Number": 2150321,
+      "father": "Saturin (80)",
+      "mother": "Sanli ?",
+      "mother 2": "x"
+    },
+    {
+      "name": "Shair",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116638",
+      "U.-Number": 2148321,
+      "father": "Safran",
+      "mother": "Aslan"
+    },
+    {
+      "name": "Shala 1",
+      "year of birth": 1999,
+      "sex": "mare",
+      "GeneControl": "Gen10820",
+      "U.-Number": "2319407/2212305",
+      "father": "Sent",
+      "mother": "Shimshak",
+      "note": "parents are not correct"
+    },
+    {
+      "name": "Shalala",
+      "year of birth": 2000,
+      "sex": "mare",
+      "GeneControl": "Gen15332",
+      "U.-Number": 2319007,
+      "father": "Saturn (80)",
+      "mother": "Shimshak 18 (491)"
+    },
+    {
+      "name": "Sham",
+      "year of birth": 1988,
+      "sex": "stallion",
+      "GeneControl": "Gen15340",
+      "father": "Paris (124)",
+      "mother": "Shagirda (481)"
+    },
+    {
+      "name": "Shan",
+      "year of birth": 2009,
+      "sex": "stallion",
+      "GeneControl": "Gen116651",
+      "U.-Number": 2149821,
+      "father": "Novruz )Kizil Oghlan)?",
+      "mother": "Shakira ?",
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Shanaz 1",
+      "year of birth": 2005,
+      "sex": "mare",
+      "GeneControl": "Gen15331",
+      "U.-Number": 2318907,
+      "father": "Ada (54)",
+      "mother": "Shalala"
+    },
+    {
+      "name": "Shanaz 2",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116655",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Shanli 1",
+      "sex": "mare",
+      "GeneControl": "Gen15306",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Shanli 2",
+      "sex": "mare",
+      "GeneControl": "Gen15346",
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Shero",
+      "year of birth": 2009,
+      "sex": "stallion",
+      "GeneControl": "Gen31495",
+      "U.-Number": 717012,
+      "mother": "Kelme 2"
+    },
+    {
+      "name": "Sheyda",
+      "year of birth": 2008,
+      "sex": "mare",
+      "GeneControl": "Gen34209",
+      "U.-Number": 346713,
+      "father": "Alyetmez 2",
+      "mother": "Shala"
+    },
+    {
+      "name": "Shimshak",
+      "year of birth": 1989,
+      "sex": "?",
+      "GeneControl": "Gen10815",
+      "U.-Number": 2211805,
+      "father": "Syrtuk (212) ?",
+      "mother": "Shagirda  (481) ?"
+    },
+    {
+      "name": "Shöle",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen15357",
+      "U.-Number": 2348907,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Sibaj (224)",
+      "year of birth": 2005,
+      "GeneControl": "Gen29062",
+      "U.-Number": 1617711,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Sinara",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen31140",
+      "U.-Number": 347213,
+      "father": "Saturin (80)",
+      "mother": "Sahar"
+    },
+    {
+      "name": "Sirga II",
+      "year of birth": "?",
+      "sex": "mare",
+      "GeneControl": "Gen10790",
+      "U.-Number": 2209305,
+      "mother": "Sosna"
+    },
+    {
+      "name": "Sisma",
+      "year of birth": 2000,
+      "GeneControl": "Gen10818",
+      "U.-Number": 2212105,
+      "father": "Karabin",
+      "mother": "Satma",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Skop",
+      "year of birth": 1991,
+      "sex": "mare",
+      "GeneControl": "Gen10821",
+      "U.-Number": 2212405,
+      "note": "identic with Skopka"
+    },
+    {
+      "name": "Skopka",
+      "year of birth": 1991,
+      "sex": "mare",
+      "GeneControl": "Gen15338",
+      "U.-Number": 2319707,
+      "father": "Veksel ox",
+      "note": "identic with Skop"
+    },
+    {
+      "name": "Sliva (448)",
+      "year of birth": 1986,
+      "sex": "mare",
+      "GeneControl": "Gen11291",
+      "U.-Number": 2650005,
+      "father": "Sal-Sal (42) ?",
+      "mother": "Sira / Sumsu (437)?"
+    },
+    {
+      "name": "Soda (247??)",
+      "year of birth": 1998,
+      "sex": "mare",
+      "GeneControl": "Gen10808",
+      "U.-Number": 2211105,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Sola",
+      "year of birth": 2003,
+      "sex": "mare",
+      "GeneControl": "Gen116650",
+      "U.-Number": 2149721,
+      "father": "Samalyot?",
+      "mother": "Sünbül ?",
+      "mother 2": "x",
+      "note": "parents not tested yet"
+    },
+    {
+      "name": "Solgun",
+      "year of birth": 2006,
+      "sex": "mare",
+      "GeneControl": "Gen15363",
+      "U.-Number": 2349507,
+      "father": "Samolyot (196)",
+      "mother": "Sarigül 2 (398)"
+    },
+    {
+      "name": "Sona 1",
+      "year of birth": 2007,
+      "sex": "mare",
+      "GeneControl": "Gen20125",
+      "U.-Number": 2427609,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Sona 2",
+      "year of birth": 2001,
+      "GeneControl": "Gen10812",
+      "U.-Number": 2211505,
+      "mother": "Sevimli",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Sonali 5",
+      "year of birth": 1997,
+      "sex": "mare",
+      "GeneControl": "Gen15362",
+      "U.-Number": 2349407,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Soraq 2",
+      "year of birth": 2013,
+      "GeneControl": "Gen34201",
+      "U.-Number": 346013,
+      "father": "Saat (added)",
+      "mother": "Jeyran"
+    },
+    {
+      "name": "Sorma",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen15337",
+      "U.-Number": 2319507,
+      "note": "parents unknown"
+    },
+    {
+      "name": "Sorusma",
+      "year of birth": 2006,
+      "sex": "mare",
+      "GeneControl": "Gen15370",
+      "U.-Number": 2350207,
+      "father": "Samaljot",
+      "mother": "Satma",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Sosna",
+      "year of birth": "?",
+      "sex": "mare",
+      "GeneControl": "Gen10789",
+      "U.-Number": 2209205,
+      "father": "Karabin",
+      "mother": "Skop (Skopka)",
+      "note": "mother is not correct"
+    },
+    {
+      "name": "Sovgat 2 (240a)",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen19998",
+      "U.-Number": 2354309,
+      "father": "Karabin 2 MNM (89) ?",
+      "mother": "Satma 2 (404)"
+    },
+    {
+      "name": "Spichka",
+      "year of birth": 2007,
+      "sex": "mare",
+      "GeneControl": "Gen116664",
+      "U.-Number": 2151221,
+      "father": "Samalyot ?",
+      "mother": "Sayig wrong",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sultan 2 ",
+      "year of birth": 2003,
+      "sex": "stallion",
+      "GeneControl": "Gen31494",
+      "U.-Number": 716712,
+      "father": "Karabin",
+      "mother": "Sevimli"
+    },
+    {
+      "name": "Sultanqiz ",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen31496",
+      "U.-Number": 727112,
+      "father": "Sultan 2",
+      "mother": "Kapaz ?",
+      "note": "no gene-control from mare exists"
+    },
+    {
+      "name": "Sunbul ?",
+      "sex": "mare",
+      "mother 2": "x"
+    },
+    {
+      "name": "Supurga (Buta)",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen31143",
+      "U.-Number": 346813,
+      "father": "Saturin (80)",
+      "mother": "Sibaj (224)"
+    },
+    {
+      "name": "Sürmeli",
+      "year of birth": 2010,
+      "GeneControl": "Gen109332",
+      "U.-Number": " U.-Nr.0000720",
+      "father": "Senat (218)",
+      "mother": "typ. Karabagh"
+    },
+    {
+      "name": "Suskun",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen15358",
+      "U.-Number": 2349007,
+      "father": "Sham ?",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Suzma",
+      "sex": "mare",
+      "GeneControl": "Gen34210",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Süzma",
+      "year of birth": 1998,
+      "sex": "mare",
+      "GeneControl": "Gen15367",
+      "U.-Number": 2349907,
+      "father": "Veksel ox"
+    },
+    {
+      "name": "Tarix",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116649",
+      "U.-Number": 2149621,
+      "father": "Shafran (26)",
+      "mother": "Sola",
+      "mother 2": "x"
+    },
+    {
+      "name": "Tornado",
+      "year of birth": 2005,
+      "sex": "stalion",
+      "GeneControl": "Gen15360",
+      "U.-Number": 2349207,
+      "father": "Gartal 2 (138) ?",
+      "mother": "Sirga 2 (439) ?"
+    },
+    {
+      "name": "Turaz",
+      "year of birth": 1996,
+      "sex": "mare",
+      "GeneControl": "Gen15365",
+      "U.-Number": 2349707,
+      "father": "Sham ?",
+      "mother": "Dumanli (508) ?",
+      "mother 2": "x"
+    },
+    {
+      "name": "Ulduz (Sultan 2)",
+      "year of birth": 2011,
+      "sex": "stalion",
+      "GeneControl": "Gen25860",
+      "U.-Number": 345813,
+      "father": "Notarius",
+      "mother": "Solqun"
+    },
+    {
+      "name": "Üsyan-Yashar",
+      "sex": "stallion",
+      "GeneControl": "Gen102665",
+      "U.-Number": 1889318,
+      "father": "Khazri (14)",
+      "mother": "Shalala"
+    },
+    {
+      "name": "Volga",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116627",
+      "U.-Number": 2147421,
+      "father": "Shan wrong",
+      "mother": "Asiya",
+      "note": "father wrong "
+    },
+    {
+      "name": "Yashar 1",
+      "year of birth": 2008,
+      "sex": "mare",
+      "GeneControl": "Gen17369",
+      "U.-Number": 2332308
+    },
+    {
+      "name": "Yashar 4",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen17372",
+      "U.-Number": 2332608
+    },
+    {
+      "name": "Yashar 5",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen17373",
+      "U.-Number": 2332708
+    },
+    {
+      "name": "Yashar 7",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen17374",
+      "U.-Number": 2332808
+    },
+    {
+      "name": "Zarif",
+      "year of birth": "?",
+      "sex": "mare",
+      "GeneControl": "Gen15359",
+      "U.-Number": 2349107
+    },
+    {
+      "name": "Zira",
+      "year of birth": 2001,
+      "sex": "mare",
+      "GeneControl": "Gen10822",
+      "U.-Number": 2212505
+    }
+  ],
+  "44 AZ-atlar": [
+    {
+      "name": "Al-Buxara",
+      "year of birth": 2021,
+      "GeneControl": "Gen116633",
+      "U.-Number": 2148021,
+      "father": "Khan-Khan (296) ",
+      "mother": "Aralig"
+    },
+    {
+      "name": "Algish",
+      "year of birth": 2017,
+      "sex": "stallion",
+      "GeneControl": "Gen116637",
+      "U.-Number": 2148421,
+      "father": "Shan wrong",
+      "mother": "Asllan wrong",
+      "note": "both parents wrong"
+    },
+    {
+      "name": "Anbar",
+      "year of birth": 2017,
+      "sex": "mare",
+      "GeneControl": "Gen116666",
+      "U.-Number": 2151421,
+      "father": "Sham ?",
+      "mother": "Ayseli",
+      "mother 2": "x"
+    },
+    {
+      "name": "Aralig",
+      "year of birth": 2008,
+      "sex": "mare",
+      "GeneControl": "Gen116632",
+      "U.-Number": 2147921,
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Armud",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen116665",
+      "U.-Number": 2151321,
+      "father": "Lovga (340) wrong",
+      "mother": "Asda  ?",
+      "mother 2": "x",
+      "note": "father wrong "
+    },
+    {
+      "name": "Asiya 2",
+      "year of birth": 2013,
+      "sex": "mare",
+      "GeneControl": "Gen116626",
+      "U.-Number": 2147321,
+      "father": "Gar-gar (79) wrong",
+      "mother": "Ayseli",
+      "mother 2": "x",
+      "note": "father wrong"
+    },
+    {
+      "name": "Aslan",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116638",
+      "U.-Number": 2148521,
+      "father": "Saturn (80) wrong",
+      "mother": "Afad ?",
+      "note": "father wrong / mother ?"
+    },
+    {
+      "name": "Ayseli",
+      "year of birth": 2004,
+      "sex": "mare",
+      "GeneControl": "Gen116667",
+      "U.-Number": 2151521,
+      "father": "Samaljot ?",
+      "mother": "Arenda ?",
+      "mother 2": "x",
+      "note": "parents not tested yet"
+    },
+    {
+      "name": "Demir",
+      "year of birth": 2019,
+      "sex": "mare",
+      "GeneControl": "Gen116654",
+      "U.-Number": 2150221,
+      "father": "Khan-Khan (296)",
+      "mother": "Shahnaz"
+    },
+    {
+      "name": "Donar",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116647",
+      "U.-Number": 2149421,
+      "father": "Shan",
+      "mother": "Durujba"
+    },
+    {
+      "name": "Durujba",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen116646",
+      "U.-Number": 2149321,
+      "father": "Saturin (80)",
+      "mother": "Dirnag ?"
+    },
+    {
+      "name": "Gaygi",
+      "year of birth": 2018,
+      "sex": "mare",
+      "GeneControl": "Gen116640",
+      "U.-Number": 2148721,
+      "father": "Shan wrong",
+      "mother": "Sedamm",
+      "mother 2": "x",
+      "note": "father wrong"
+    },
+    {
+      "name": "Gelem",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116663",
+      "U.-Number": 2151121,
+      "father": "Armud wrong",
+      "mother": "Spichka wrong",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Kalak",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116629",
+      "U.-Number": 2147621,
+      "father": "Gar-gar (79)",
+      "mother 2": "x"
+    },
+    {
+      "name": "Karandash",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116628",
+      "U.-Number": 2147521,
+      "father": "Shan",
+      "mother": "Kalak"
+    },
+    {
+      "name": "Karat 2",
+      "year of birth": 2019,
+      "sex": "stallion",
+      "GeneControl": "Gen116639",
+      "U.-Number": 2148621,
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Keramez",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116659",
+      "U.-Number": 2150721,
+      "father": "Shan",
+      "mother": "Semeni 2",
+      "mother 2": "x"
+    },
+    {
+      "name": "Kilinch",
+      "year of birth": 2019,
+      "GeneControl": "Gen116645",
+      "U.-Number": 2149221,
+      "father": "Armud",
+      "mother": "Kiya",
+      "mother 2": "x"
+    },
+    {
+      "name": "Kiya",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116634",
+      "U.-Number": 2148121,
+      "father": "Gar-gar (79) wrong",
+      "mother": "Kirli wrong",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Kristal",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116652",
+      "U.-Number": 2150021,
+      "father": "Lovga (340) wrong",
+      "mother": "Kapsula ?",
+      "mother 2": "x",
+      "note": "father wrong mother ?"
+    },
+    {
+      "name": "Lachin (281)",
+      "year of birth": 2010,
+      "sex": "stallion",
+      "GeneControl": "Gen31136",
+      "U.-Number": 488412,
+      "father": "Gar-Gar (79)",
+      "mother": "Leva (137) wrong",
+      "mother 2": "Linza (348) wrong"
+    },
+    {
+      "name": "Limana",
+      "year of birth": 2012,
+      "sex": "mare",
+      "GeneControl": "Gen116630",
+      "U.-Number": 2147721,
+      "father": "Saturn (80) wrong",
+      "mother": "Shabran wrong",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Lovga (340??)",
+      "year of birth": 2002,
+      "sex": "stallion",
+      "GeneControl": "Gen33980",
+      "U.-Number": 284313,
+      "father": "Sinabend?",
+      "mother": "Lirika?"
+    },
+    {
+      "name": "Lövga = Lovga",
+      "year of birth": 2002,
+      "sex": "stallion",
+      "GeneControl": "Gen116648",
+      "U.-Number": 2149521,
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Nazli",
+      "year of birth": 2019,
+      "sex": "mare",
+      "GeneControl": "Gen116635",
+      "U.-Number": 2148221,
+      "father": "Sarab",
+      "mother": "Shahnaz 1"
+    },
+    {
+      "name": "Pambiq",
+      "year of birth": "?",
+      "sex": "mare",
+      "GeneControl": "Gen19999",
+      "U.-Number": 2149921,
+      "father": "Lovga (340)",
+      "mother": "Kristal",
+      "mother 2": "x"
+    },
+    {
+      "name": "Piyada 2",
+      "year of birth": 2020,
+      "sex": "mare",
+      "GeneControl": "Gen116660",
+      "U.-Number": 2150821,
+      "father": "Lovga (340) wrong",
+      "mother": "Pramida",
+      "mother 2": "x",
+      "note": "father wrong"
+    },
+    {
+      "name": "Piyar",
+      "year of birth": 2021,
+      "sex": "mare",
+      "GeneControl": "Gen116653",
+      "U.-Number": 2150121,
+      "father": "Basarkecher",
+      "mother": "Pramida",
+      "mother 2": "x"
+    },
+    {
+      "name": "Pramida",
+      "year of birth": 2014,
+      "sex": "mare",
+      "GeneControl": "Gen116661",
+      "U.-Number": 2150921,
+      "father": "Safran",
+      "mother": "Piyada ?",
+      "mother 2": "x"
+    },
+    {
+      "name": "Safran ",
+      "year of birth": 2008,
+      "sex": "stallion",
+      "GeneControl": "Gen116662",
+      "U.-Number": 2151021,
+      "father": "Aliyetmez 2 (Sahil)",
+      "mother": "Shalala",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sandig",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116657",
+      "U.-Number": 2150021,
+      "father": "Saturin (187) wrong",
+      "mother": "Sayig    ",
+      "note": "father wrong   "
+    },
+    {
+      "name": "Saritel ",
+      "year of birth": 2019,
+      "sex": "mare",
+      "GeneControl": "Gen116642",
+      "U.-Number": 2148921,
+      "father": "Sart (342) wrong",
+      "mother": "Ashirma",
+      "mother 2": "x",
+      "note": "father wrong   "
+    },
+    {
+      "name": "Sasha",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116656",
+      "U.-Number": 2150421,
+      "father": "Lovga (340)",
+      "mother": "Sandig"
+    },
+    {
+      "name": "Sayig",
+      "year of birth": 2002,
+      "sex": "mare",
+      "GeneControl": "Gen116644",
+      "U.-Number": 2149121,
+      "father": "Sinabend 2 (231) ?",
+      "mother": "Sapiltscha ?"
+    },
+    {
+      "name": "Seddam",
+      "year of birth": 2011,
+      "sex": "mare",
+      "GeneControl": "Gen116641",
+      "U.-Number": 2148821,
+      "father": "Gar-gar (79)",
+      "mother": "Sola",
+      "mother 2": "x"
+    },
+    {
+      "name": "Sederek",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116643",
+      "U.-Number": 2149021,
+      "father": "Lovga (340)",
+      "mother": "Sayig    "
+    },
+    {
+      "name": "Semeni 2",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116658",
+      "U.-Number": 2150621,
+      "father": "Lovga (340) wrong",
+      "mother": "Solmaz (67)",
+      "mother 2": "x",
+      "note": "father wrong "
+    },
+    {
+      "name": "Shabran",
+      "year of birth": 2012,
+      "sex": "mare",
+      "GeneControl": "Gen116631",
+      "U.-Number": 2147821,
+      "father": "Gar-Gar (79) wrong",
+      "mother": "Shalala wrong",
+      "mother 2": "x",
+      "note": "parents wrong"
+    },
+    {
+      "name": "Shahnaz 2",
+      "year of birth": 2009,
+      "sex": "mare",
+      "GeneControl": "Gen116655",
+      "U.-Number": 2150321,
+      "father": "Saturin (80)",
+      "mother": "Sanli ?",
+      "mother 2": "x"
+    },
+    {
+      "name": "Shair",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116638",
+      "U.-Number": 2148321,
+      "father": "Safran",
+      "mother": "Aslan"
+    },
+    {
+      "name": "Shan",
+      "year of birth": 2009,
+      "sex": "stallion",
+      "GeneControl": "Gen116651",
+      "U.-Number": 2149821,
+      "father": "Novruz (Kizil Oghlan) ?",
+      "mother": "Shakira ?",
+      "mother 2": "x",
+      "note": "parents unknown"
+    },
+    {
+      "name": "Sola",
+      "year of birth": 2003,
+      "sex": "mare",
+      "GeneControl": "Gen116650",
+      "U.-Number": 2149721,
+      "father": "Samalyot?",
+      "mother": "Sünbül ?",
+      "mother 2": "x",
+      "note": "parents not tested yet"
+    },
+    {
+      "name": "Spichka",
+      "year of birth": 2007,
+      "sex": "mare",
+      "GeneControl": "Gen116664",
+      "U.-Number": 2151221,
+      "father": "Samalyot ?",
+      "mother": "Sayig wrong",
+      "mother 2": "x"
+    },
+    {
+      "name": "Tarix",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116649",
+      "U.-Number": 2149621,
+      "father": "Shafran (26)",
+      "mother": "Sola",
+      "mother 2": "x"
+    },
+    {
+      "name": "Volga",
+      "year of birth": 2018,
+      "sex": "stallion",
+      "GeneControl": "Gen116627",
+      "U.-Number": 2147421,
+      "father": "Shan wrong",
+      "mother": "Asiya",
+      "note": "father wrong "
+    }
+  ]
+}
