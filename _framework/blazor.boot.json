@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "KFWeb.IGKarabagh",
   "resources": {
-    "hash": "sha256-SRlRpd3HgmyAlTgXsfyePsADoB4SiGP1nIWMpVXBM90=",
+    "hash": "sha256-4nBKpJJP16zpA1Cyv44jq5wWmrbVMTo15x63pzkfBrs=",
     "fingerprinting": {
-      "KFWeb.IGKarabagh.a8pzqo07sd.wasm": "KFWeb.IGKarabagh.wasm",
+      "KFWeb.IGKarabagh.e1rxlox994.wasm": "KFWeb.IGKarabagh.wasm",
       "Microsoft.AspNetCore.Components.QuickGrid.pp35x4pumy.wasm": "Microsoft.AspNetCore.Components.QuickGrid.wasm",
       "Microsoft.AspNetCore.Components.5md519qbgb.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.77nqvgfn7c.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -66,7 +66,7 @@
       "System.Runtime.InteropServices.JavaScript.mwa725m7o8.wasm": "sha256-Cjdb0G7x7YHp1aN8K34JIjyB6iQIEsmMfoZJJ71ZuOw="
     },
     "assembly": {
-      "KFWeb.IGKarabagh.a8pzqo07sd.wasm": "sha256-euTmxTTZnGALimh4D2ZEHAPn4qiunaKIDIXjpL60KF0=",
+      "KFWeb.IGKarabagh.e1rxlox994.wasm": "sha256-IuzLrTXIHiRdRc50j+Ls2t9uGIwPMLRL9zts2PyuXnk=",
       "Microsoft.AspNetCore.Components.QuickGrid.pp35x4pumy.wasm": "sha256-DQO+DivHLSZWqWlg/uNg+BUlbKcl2+D6QbSKb3JPrnY=",
       "Microsoft.AspNetCore.Components.5md519qbgb.wasm": "sha256-LZkdqervXt59Q8pFWTNKznLiHyKzXbl9lQ2GS6hUX8I=",
       "Microsoft.AspNetCore.Components.Web.77nqvgfn7c.wasm": "sha256-82b4Q0w/ij9IiMSZOpSb8KNAaW9mY5QRWGlg+FGFdLQ=",

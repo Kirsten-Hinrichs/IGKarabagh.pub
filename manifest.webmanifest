@@ -1,6 +1,6 @@
 {
-  "name": "KFWeb.IG-Karabagh",
-  "short_name": "KFWeb.IG-Karabagh",
+  "name": "IG-Karabagh",
+  "short_name": "IG-Karabagh",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
