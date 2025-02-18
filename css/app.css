@@ -112,7 +112,7 @@ code {
 
 .nav_pferdekopf {
     align-self: center;
-    background-image: url(/images/weblayout/Pferdzeichen.png );
+    background-image: url(../images/weblayout/Pferdzeichen.png );
     background-position: center;
     background-repeat: no-repeat;
 }
