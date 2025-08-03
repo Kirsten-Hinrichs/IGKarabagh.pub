@@ -1,5 +1,6 @@
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow: hidden;
 }
 
 body {
@@ -29,6 +30,7 @@ a, .btn-link {
 }
 
 .content {
+    overflow:hidden;
     padding-top: 1.1rem;
 }
 
@@ -152,10 +154,27 @@ code {
     flex-direction: column;
     box-sizing: border-box;
     height: 100%; /* Ensure the component container takes full height */
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 /* Ensure the column takes full height */
 .col-md-4 {
     display: flex;
     flex-direction: column;
+}
+
+.fett p {
+    font-weight: bold;
+}
+
+.kursiv p {
+    font-style: italic;
+}
+
+.text-justify {
+    text-align: justify;
+}
+.margin-10 {
+    margin: 10px;
 }

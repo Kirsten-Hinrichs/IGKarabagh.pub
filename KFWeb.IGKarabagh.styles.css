@@ -4,33 +4,47 @@
 
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-m370pgk618] {
-    position: relative;
     display: flex;
     flex-direction: column;
+    height: 100vh; /* Die H�he der Seite ist 100% der Ansichtsh�he */
+    overflow: hidden; /* Verhindere das Scrollen der gesamten Seite */
+}
+
+.sidebar[b-m370pgk618] {
+    width: 250px; /* Passe die Breite der Sidebar nach Bedarf an */
 }
 
 main[b-m370pgk618] {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* Verhindere das Scrollen im Haupt-Element */
 }
 
-
-
 .top-row[b-m370pgk618] {
-    background-image: url(images/weblayout/band180.jpg);
-    background-size:contain;
-    background-repeat:no-repeat;
+    flex-shrink: 0; /* Verhindere, dass die top-row schrumpft */
+    background-image: url(images/weblayout/band_endlos.jpg);
+    background-size: contain;
+    background-repeat: repeat;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 4rem;
-    display:flex ;
+    display: flex;
     align-items: center;
 }
 
-    .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
+.content[b-m370pgk618] {
+    flex: 1; /* Die content nimmt den verbleibenden Platz ein */
+    overflow-y: auto; /* Erm�gliche das vertikale Scrollen in der content */
+    padding: 1rem; /* Optional: Passe das Padding nach Bedarf an */
+    box-sizing: border-box; /* Stelle sicher, dass Padding und Border in der H�he ber�cksichtigt werden */
+}
+
+.top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
+    white-space: nowrap;
+    margin-left: 1.5rem;
+    text-decoration: none;
+}
 
     .top-row[b-m370pgk618]  a:hover, .top-row[b-m370pgk618]  .btn-link:hover {
         text-decoration: underline;
@@ -46,9 +60,9 @@ main[b-m370pgk618] {
         justify-content: space-between;
     }
 
-    .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
-        margin-left: 0;
-    }
+        .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
+            margin-left: 0;
+        }
 }
 
 @media (min-width: 641px) {
@@ -58,9 +72,154 @@ main[b-m370pgk618] {
 
     .sidebar[b-m370pgk618] {
         width: 250px;
+        .page {
+            display: flex;
+            flex-direction: column;
+            height: 100vh; /* Die H�he der Seite ist 100% der Ansichtsh�he */
+            overflow: hidden; /* Verhindere das Scrollen der gesamten Seite */
+        }
+
+        .sidebar[b-m370pgk618] {
+            width: 250px; /* Passe die Breite der Sidebar nach Bedarf an */
+        }
+
+        main[b-m370pgk618] {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden; /* Verhindere das Scrollen im Haupt-Element */
+        }
+
+        .top-row[b-m370pgk618] {
+            flex-shrink: 0; /* Verhindere, dass die top-row schrumpft */
+            background-image: url(images/weblayout/band_endlos.jpg);
+            background-size: contain;
+            background-repeat: repeat;
+            border-bottom: 1px solid #d6d5d5;
+            justify-content: flex-end;
+            height: 4rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .content[b-m370pgk618] {
+            flex: 1; /* Die content nimmt den verbleibenden Platz ein */
+            overflow-y: auto; /* Erm�gliche das vertikale Scrollen in der content */
+            padding: 1rem; /* Optional: Passe das Padding nach Bedarf an */
+            box-sizing: border-box; /* Stelle sicher, dass Padding und Border in der H�he ber�cksichtigt werden */
+        }
+
+        .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
+            white-space: nowrap;
+            margin-left: 1.5rem;
+            text-decoration: none;
+        }
+
+            .top-row[b-m370pgk618]  a:hover, .top-row[b-m370pgk618]  .btn-link:hover {
+                text-decoration: underline;
+            }
+
+            .top-row[b-m370pgk618]  a:first-child {
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+
+        @media (max-width: 640.98px) {
+            .top-row[b-m370pgk618] {
+                justify-content: space-between;
+            }
+
+                .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
+                    margin-left: 0;
+                }
+        }
+
+        @media (min-width: 641px) {
+            .page[b-m370pgk618] {
+                flex-direction: row;
+            }
+
+            .sidebar[b-m370pgk618] {
+                width: 250px;
+                height: 100vh;
+                position: sticky;
+                top: 0;
+            }
+
+            .top-row[b-m370pgk618] {
+                position: sticky;
+                top: 0;
+                z-index: 1;
+            }
+
+                .top-row.auth[b-m370pgk618]  a:first-child {
+                    flex: 1;
+                    text-align: right;
+                    width: 0;
+                }
+
+            .top-row[b-m370pgk618], article[b-m370pgk618] {
+                padding-left: 2rem !important;
+                padding-right: 1.5rem !important;
+            }
+        }
+        .sidebar[b-m370pgk618]  a,
+        .sidebar[b-m370pgk618]  .btn-link,
+        .sidebar[b-m370pgk618]  a.nav-link {
+            font-size: 0.9rem !important; /* or try 0.85rem for even smaller */
+        }
+        .sidebar[b-m370pgk618]  a.nav-link {
+            padding: 0.5rem 0 !important; /* Remove left/right padding */
+            margin: 0 !important;
+            width: 100%;
+            display: block;
+            box-sizing: border-box;
+        }
+        .sidebar[b-m370pgk618] {
+            width: 150px;
+            padding: 0;
+            margin: 0;
+        }
+
+        .sidebar ul[b-m370pgk618],
+        .sidebar nav[b-m370pgk618],
+        .sidebar ol[b-m370pgk618] {
+            padding: 0;
+            margin: 0;
+        }
+
+        .sidebar[b-m370pgk618]  a,
+        .sidebar[b-m370pgk618]  .btn-link {
+            display: block;
+            width: 100%;
+            margin: 0;
+            padding: 0.5rem 0.75rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            box-sizing: border-box;
+            text-align: left; /* Ensure links are left-aligned */
+        }
+        .sidebar[b-m370pgk618] {
+            width: 150px;
+            /* Optional: add this to ensure the sidebar doesn't add extra padding */
+            padding: 0;
+        }
+
+        .sidebar[b-m370pgk618]  a,
+        .sidebar[b-m370pgk618]  .btn-link {
+            display: block;
+            width: 100%;
+            margin: 0;           /* Remove extra margin */
+            padding: 0.5rem 0.75rem; /* Adjust as needed for compactness */
+            white-space: nowrap;  /* Prevent wrapping */
+            overflow: hidden;     /* Hide overflow */
+            text-overflow: ellipsis; /* Show ... for overflow */
+            box-sizing: border-box;
+        }
         height: 100vh;
         position: sticky;
-        top: 0;
+        top: 0;[b-m370pgk618]
     }
 
     .top-row[b-m370pgk618] {
@@ -69,11 +228,11 @@ main[b-m370pgk618] {
         z-index: 1;
     }
 
-    .top-row.auth[b-m370pgk618]  a:first-child {
-        flex: 1;
-        text-align: right;
-        width: 0;
-    }
+        .top-row.auth[b-m370pgk618]  a:first-child {
+            flex: 1;
+            text-align: right;
+            width: 0;
+        }
 
     .top-row[b-m370pgk618], article[b-m370pgk618] {
         padding-left: 2rem !important;
