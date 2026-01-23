@@ -6,23 +6,22 @@
 .page[b-m370pgk618] {
     display: flex;
     flex-direction: column;
-    height: 100vh; /* Die H�he der Seite ist 100% der Ansichtsh�he */
-    overflow: hidden; /* Verhindere das Scrollen der gesamten Seite */
+    height: 100vh;
 }
 
 .sidebar[b-m370pgk618] {
-    width: 250px; /* Passe die Breite der Sidebar nach Bedarf an */
+    width: 250px;
 }
 
 main[b-m370pgk618] {
     flex: 1;
     display: flex;
     flex-direction: column;
-    overflow: hidden; /* Verhindere das Scrollen im Haupt-Element */
+    overflow: hidden;
 }
 
 .top-row[b-m370pgk618] {
-    flex-shrink: 0; /* Verhindere, dass die top-row schrumpft */
+    flex-shrink: 0;
     background-image: url(images/weblayout/band_endlos.jpg);
     background-size: contain;
     background-repeat: repeat;
@@ -31,210 +30,174 @@ main[b-m370pgk618] {
     height: 4rem;
     display: flex;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding-left: 2rem !important;
+    padding-right: 1.5rem !important;
 }
 
-.content[b-m370pgk618] {
-    flex: 1; /* Die content nimmt den verbleibenden Platz ein */
-    overflow-y: auto; /* Erm�gliche das vertikale Scrollen in der content */
-    padding: 1rem; /* Optional: Passe das Padding nach Bedarf an */
-    box-sizing: border-box; /* Stelle sicher, dass Padding und Border in der H�he ber�cksichtigt werden */
+/* Spendenbutton: klein und dezent am rechten Rand */
+.spenden-button[b-m370pgk618] {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    margin-left: auto;
+    opacity: 0.7;
+    transition: opacity 0.3s ease, transform 0.2s ease;
 }
 
-.top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
+.spenden-button:hover[b-m370pgk618] {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+.spenden-img[b-m370pgk618] {
+    height: 2rem;
+    width: auto;
+    display: block;
+}
+
+.top-row[b-m370pgk618]  a,
+.top-row[b-m370pgk618]  .btn-link {
     white-space: nowrap;
     margin-left: 1.5rem;
     text-decoration: none;
 }
 
-    .top-row[b-m370pgk618]  a:hover, .top-row[b-m370pgk618]  .btn-link:hover {
-        text-decoration: underline;
-    }
+.top-row[b-m370pgk618]  a:hover,
+.top-row[b-m370pgk618]  .btn-link:hover {
+    text-decoration: underline;
+}
 
-    .top-row[b-m370pgk618]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+.top-row[b-m370pgk618]  a:first-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.top-row.auth[b-m370pgk618]  a:first-child {
+    flex: 1;
+    text-align: right;
+    width: 0;
+}
+
+/* Layout ohne Bootstrap .row */
+.main-row[b-m370pgk618] {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    min-height: 0;
+}
+
+.main-content[b-m370pgk618] {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.content[b-m370pgk618] {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+/* Footer Styling */
+.footer[b-m370pgk618] {
+    flex-shrink: 0;
+    border-top: 1px solid #dee2e6;
+    background-color: rgba(248, 249, 250, 0.8) !important;
+}
+
+.footer a[b-m370pgk618] {
+    transition: opacity 0.3s ease;
+}
+
+.footer a:hover[b-m370pgk618] {
+    opacity: 0.7;
+}
+
+.spenden-footer-img[b-m370pgk618] {
+    transition: opacity 0.3s ease, transform 0.2s ease;
+}
+
+.spenden-footer-img:hover[b-m370pgk618] {
+    opacity: 1 !important;
+    transform: scale(1.05);
+}
 
 @media (max-width: 640.98px) {
     .top-row[b-m370pgk618] {
         justify-content: space-between;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
     }
-
-        .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
-            margin-left: 0;
-        }
+    
+    .spenden-img[b-m370pgk618] {
+        height: 1.5rem;
+    }
+    
+    .top-row[b-m370pgk618]  a,
+    .top-row[b-m370pgk618]  .btn-link {
+        margin-left: 0;
+    }
+    
+    .footer[b-m370pgk618] {
+        font-size: 0.875rem;
+    }
+    
+    .spenden-footer-img[b-m370pgk618] {
+        height: 1.5rem !important;
+    }
 }
 
 @media (min-width: 641px) {
     .page[b-m370pgk618] {
         flex-direction: row;
     }
-
     .sidebar[b-m370pgk618] {
         width: 250px;
-        .page {
-            display: flex;
-            flex-direction: column;
-            height: 100vh; /* Die H�he der Seite ist 100% der Ansichtsh�he */
-            overflow: hidden; /* Verhindere das Scrollen der gesamten Seite */
-        }
-
-        .sidebar[b-m370pgk618] {
-            width: 250px; /* Passe die Breite der Sidebar nach Bedarf an */
-        }
-
-        main[b-m370pgk618] {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            overflow: hidden; /* Verhindere das Scrollen im Haupt-Element */
-        }
-
-        .top-row[b-m370pgk618] {
-            flex-shrink: 0; /* Verhindere, dass die top-row schrumpft */
-            background-image: url(images/weblayout/band_endlos.jpg);
-            background-size: contain;
-            background-repeat: repeat;
-            border-bottom: 1px solid #d6d5d5;
-            justify-content: flex-end;
-            height: 4rem;
-            display: flex;
-            align-items: center;
-        }
-
-        .content[b-m370pgk618] {
-            flex: 1; /* Die content nimmt den verbleibenden Platz ein */
-            overflow-y: auto; /* Erm�gliche das vertikale Scrollen in der content */
-            padding: 1rem; /* Optional: Passe das Padding nach Bedarf an */
-            box-sizing: border-box; /* Stelle sicher, dass Padding und Border in der H�he ber�cksichtigt werden */
-        }
-
-        .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
-            white-space: nowrap;
-            margin-left: 1.5rem;
-            text-decoration: none;
-        }
-
-            .top-row[b-m370pgk618]  a:hover, .top-row[b-m370pgk618]  .btn-link:hover {
-                text-decoration: underline;
-            }
-
-            .top-row[b-m370pgk618]  a:first-child {
-                overflow: hidden;
-                text-overflow: ellipsis;
-            }
-
-        @media (max-width: 640.98px) {
-            .top-row[b-m370pgk618] {
-                justify-content: space-between;
-            }
-
-                .top-row[b-m370pgk618]  a, .top-row[b-m370pgk618]  .btn-link {
-                    margin-left: 0;
-                }
-        }
-
-        @media (min-width: 641px) {
-            .page[b-m370pgk618] {
-                flex-direction: row;
-            }
-
-            .sidebar[b-m370pgk618] {
-                width: 250px;
-                height: 100vh;
-                position: sticky;
-                top: 0;
-            }
-
-            .top-row[b-m370pgk618] {
-                position: sticky;
-                top: 0;
-                z-index: 1;
-            }
-
-                .top-row.auth[b-m370pgk618]  a:first-child {
-                    flex: 1;
-                    text-align: right;
-                    width: 0;
-                }
-
-            .top-row[b-m370pgk618], article[b-m370pgk618] {
-                padding-left: 2rem !important;
-                padding-right: 1.5rem !important;
-            }
-        }
-        .sidebar[b-m370pgk618]  a,
-        .sidebar[b-m370pgk618]  .btn-link,
-        .sidebar[b-m370pgk618]  a.nav-link {
-            font-size: 0.9rem !important; /* or try 0.85rem for even smaller */
-        }
-        .sidebar[b-m370pgk618]  a.nav-link {
-            padding: 0.5rem 0 !important; /* Remove left/right padding */
-            margin: 0 !important;
-            width: 100%;
-            display: block;
-            box-sizing: border-box;
-        }
-        .sidebar[b-m370pgk618] {
-            width: 150px;
-            padding: 0;
-            margin: 0;
-        }
-
-        .sidebar ul[b-m370pgk618],
-        .sidebar nav[b-m370pgk618],
-        .sidebar ol[b-m370pgk618] {
-            padding: 0;
-            margin: 0;
-        }
-
-        .sidebar[b-m370pgk618]  a,
-        .sidebar[b-m370pgk618]  .btn-link {
-            display: block;
-            width: 100%;
-            margin: 0;
-            padding: 0.5rem 0.75rem;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            box-sizing: border-box;
-            text-align: left; /* Ensure links are left-aligned */
-        }
-        .sidebar[b-m370pgk618] {
-            width: 150px;
-            /* Optional: add this to ensure the sidebar doesn't add extra padding */
-            padding: 0;
-        }
-
-        .sidebar[b-m370pgk618]  a,
-        .sidebar[b-m370pgk618]  .btn-link {
-            display: block;
-            width: 100%;
-            margin: 0;           /* Remove extra margin */
-            padding: 0.5rem 0.75rem; /* Adjust as needed for compactness */
-            white-space: nowrap;  /* Prevent wrapping */
-            overflow: hidden;     /* Hide overflow */
-            text-overflow: ellipsis; /* Show ... for overflow */
-            box-sizing: border-box;
-        }
         height: 100vh;
         position: sticky;
-        top: 0;[b-m370pgk618]
-    }
-
-    .top-row[b-m370pgk618] {
-        position: sticky;
         top: 0;
-        z-index: 1;
+        padding: 0;
+        margin: 0;
     }
-
-        .top-row.auth[b-m370pgk618]  a:first-child {
-            flex: 1;
-            text-align: right;
-            width: 0;
-        }
-
-    .top-row[b-m370pgk618], article[b-m370pgk618] {
+    .sidebar[b-m370pgk618]  a,
+    .sidebar[b-m370pgk618]  .btn-link,
+    .sidebar[b-m370pgk618]  a.nav-link {
+        font-size: 1.1rem !important; /* GEÄNDERT von 0.9rem zu 1rem */
+    }
+    .sidebar[b-m370pgk618]  a.nav-link {
+        padding: 0.5rem 0 !important;
+        margin: 0 !important;
+        width: 100%;
+        display: block;
+        box-sizing: border-box;
+    }
+    .sidebar ul[b-m370pgk618],
+    .sidebar nav[b-m370pgk618],
+    .sidebar ol[b-m370pgk618] {
+        padding: 0;
+        margin: 0;
+    }
+    .sidebar[b-m370pgk618]  a,
+    .sidebar[b-m370pgk618]  .btn-link {
+        display: block;
+        width: 100%;
+        margin: 0;
+        padding: 0.5rem 0.75rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        box-sizing: border-box;
+        text-align: left;
+    }
+    .top-row[b-m370pgk618],
+    article[b-m370pgk618] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
