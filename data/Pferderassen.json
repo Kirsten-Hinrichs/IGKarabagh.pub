@@ -3,12 +3,12 @@
     {
       "Name": "Karabagh",
       "BildPfad": "images/Rassen/Susaninklein.jpg",
-      "Link": "/karabagh"
+      "Link": "karabagh"
     },
     {
       "Name": "Kabardiner",
       "BildPfad": "images/Rassen/azaljaklein.jpg",
-      "Link": "/kabardiner"
+      "Link": "kabardiner"
     },
     {
       "Name": "Dillbosser",
