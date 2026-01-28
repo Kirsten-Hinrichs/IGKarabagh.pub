@@ -12,7 +12,7 @@
     },
     {
       "Name": "Dillbosser",
-      "BildPfad": "images/Rassen/dillb_klein3.jpg",
+      "BildPfad": "images/Rassen/dillb_klein3.JPG",
       "Link": "deliboss"
     },
     {
@@ -27,17 +27,17 @@
     },
     {
       "Name": "Budjonny",
-      "BildPfad": "images/Rassen/BudjoKlein.jpg",
+      "BildPfad": "images/Rassen/budjoklein.jpg",
       "Link": "Budjonny"
     },
     {
       "Name": "Don",
-      "BildPfad": "images/Rassen/DONKLEIN.jpg",
+      "BildPfad": "images/Rassen/DONKLEIN.JPG",
       "Link": "Don"
     },
     {
       "Name": "Rahvan",
-      "BildPfad": "images/Rassen/Rahvan-web.jpg",
+      "BildPfad": "images/Rassen/rahvan-web.JPG",
       "Link": "Rahvan"
     }
   ]
