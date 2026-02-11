@@ -27,6 +27,7 @@
       "type": "array",
       "items": { "type": "string" }
     },
+    "Vorstand Pos": { "type": "integer" },
     "Funktion": { "type": "string" }
   },
   "required": [

@@ -6,6 +6,11 @@
       "Link": "karabagh"
     },
     {
+      "Name": "Orlow",
+      "BildPfad": "images/Rassen/orlovklein.jpg",
+      "Link": "orlow"
+    },
+    {
       "Name": "Kabardiner",
       "BildPfad": "images/Rassen/azaljaklein.jpg",
       "Link": "kabardiner"
