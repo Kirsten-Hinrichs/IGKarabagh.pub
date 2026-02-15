@@ -44,6 +44,9 @@
       "Name": "Rahvan",
       "BildPfad": "images/Rassen/rahvan-web.JPG",
       "Link": "Rahvan"
-    }
+    },
+    {  "Name": "Kustanaier",
+      "BildPfad": "images/Rassen/Kustanaier_klein.jpg",
+      "Link": "kustanaier"}
   ]
 }
