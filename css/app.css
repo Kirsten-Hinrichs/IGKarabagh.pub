@@ -194,6 +194,15 @@ code {
     height: 100%;
 }
 
+/* Kompakte anzeige: alles ohne margin*/
+.kompakt > p {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+
+
 .fett p {
     font-weight: bold;
 }

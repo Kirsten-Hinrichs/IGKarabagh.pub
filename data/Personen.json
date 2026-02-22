@@ -112,7 +112,7 @@
       "Telefon": "08268-908687",
       "Email": "info@goldene-pferde.de",
       "Webseite": "www.goldene-pferde.de",
-      "Rassen": [ "Budjonny" ],
+      "Rassen": [ "Don" ],
       "Rollen": [ "Zuechter" ]
     },
     {
@@ -386,8 +386,14 @@
     {
       "Id": 30,
       "Name": "Anja Grüner",
+	  "PLZ": "86874",
+	  "Ort": "Tussenhausen",
       "Land": "Deutschland",
       "Email": "gruener.anja@gmx.de",
+      "Webseite": "www.goldene-pferde.de",
+	  "Insta": "budjonny_golden_vedus",
+	  "Rassen": ["Budjonny"],
+	  "Rollen": [ "Zuechter" ],
       "Vorstand_Pos": 6,
       "Funktion": "Rassevertretung Budjonny"
     },

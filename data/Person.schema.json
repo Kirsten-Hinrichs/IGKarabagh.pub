@@ -28,7 +28,8 @@
       "items": { "type": "string" }
     },
     "Vorstand Pos": { "type": "integer" },
-    "Funktion": { "type": "string" }
+    "Funktion": { "type": "string" },
+    "Insta": { "type": "string" }}
   },
   "required": [
     "Id",
