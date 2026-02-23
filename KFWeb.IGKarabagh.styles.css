@@ -1,7 +1,19 @@
 @import '_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.25o87uqmvr.bundle.scp.css';
 
 /* /Components/TopPferde.razor.rz.scp.css */
+.img-cover[b-5s2t0l04yh] {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 4px;
+}
 
+@media (max-width: 768px) {
+    .img-cover[b-5s2t0l04yh] {
+        height: 100px;
+    }
+}
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-m370pgk618] {
     display: flex;

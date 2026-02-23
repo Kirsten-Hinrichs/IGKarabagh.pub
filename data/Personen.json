@@ -116,18 +116,6 @@
       "Rollen": [ "Zuechter" ]
     },
     {
-      "Id": 9,
-      "Name": "Yashar Gulu-Zadeh",
-      "Land": "Azerbaijan",
-      "PLZ": "37003919",
-      "Ort": "Baku",
-      "Strasse": "Nefcilar st.19",
-      "Telefon": "+994 50 3408962",
-      "Email": "yashar.40@gmail.com",
-      "Rassen": [ "Dilbosser" ],
-      "Rollen": [ "Zuechter" ]
-    },
-    {
       "Id": 10,
       "Hof": "DON HORSES V.I. Lenin All-Union Academy of Agricultural Sciences",
       "Land": "Russland",
