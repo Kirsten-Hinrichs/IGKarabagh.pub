@@ -32,7 +32,7 @@
     },
     {
       "Name": "Budjonny",
-      "BildPfad": "images/Rassen/budjoklein.jpg",
+      "BildPfad": "images/Rassen/budjonny.jpg",
       "Link": "Budjonny"
     },
     {
@@ -45,8 +45,25 @@
       "BildPfad": "images/Rassen/rahvan-web.JPG",
       "Link": "Rahvan"
     },
-    {  "Name": "Kustanaier",
+    {
+      "Name": "Kirgise",
+      "BildPfad": "images/Rassen/kirgiz_kl.jpg",
+      "Link": "Kirgise"
+    },
+    {
+      "Name": "Karabaier",
+      "BildPfad": "images/Rassen/karabaier_klein.jpg",
+      "Link": "Karabaier"
+    },
+    {
+      "Name": "Turan",
+      "BildPfad": "images/Rassen/turan-4.jpg",
+      "Link": "turan"
+    },
+    {
+      "Name": "Kustanaier",
       "BildPfad": "images/Rassen/Kustanaier_klein.jpg",
-      "Link": "kustanaier"}
+      "Link": "kustanaier"
+    }
   ]
 }
