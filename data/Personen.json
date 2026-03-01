@@ -116,6 +116,18 @@
       "Rollen": [ "Zuechter" ]
     },
     {
+      "Id": 9,
+      "Hof": "Tollhof",
+      "Name": "Kirsten Hinrichs",
+      "Land": "Deutschland",
+      "Strasse": "Ratsgasse 12",
+      "PLZ": "61276",
+      "Ort": "Weilrod-Niederlauken",
+      "Telefon": "+49 (6083) 9586854",
+      "Rassen": [ "Karabagh" ],
+      "Rollen": [ "Zuechter" ]
+    },
+    {
       "Id": 10,
       "Hof": "DON HORSES V.I. Lenin All-Union Academy of Agricultural Sciences",
       "Land": "Russland",
@@ -179,7 +191,8 @@
     },
     {
       "Id": 15,
-      "Hof": "KABARDA & KARACHAI HORSES I.Lenin All-Union Academy of Agricultural Sciences",
+	  "Name": "KABARDA & KARACHAI HORSES I.",
+      "Hof": "Lenin All-Union Academy of Agricultural Sciences",
       "Land": "Russland",
       "Strasse": "21 Bolshoi Kharitonievskypereulok",
       "PLZ": "107814",

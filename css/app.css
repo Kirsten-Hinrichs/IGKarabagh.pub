@@ -187,6 +187,7 @@ code {
 /* Conti-Komponente - Standard */
 .component-container {
     box-sizing: border-box;
+    padding: 0.75rem 1rem; /* Kleiner, konstanter Abstand oben/unten (12px) und links/rechts (16px) */
 }
 
 /* NUR wenn Row die Klasse "equal-height" hat, werden Contis gestreckt */
