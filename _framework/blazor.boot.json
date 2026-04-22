@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "KFWeb.IGKarabagh",
   "resources": {
-    "hash": "sha256-n//ssXRMfn4XTZOERpIm05CdiZ1pgOVTj59jo9nNdtM=",
+    "hash": "sha256-BRKuHaWwuYuAzo+kaTXGepmGLHJIRcbFFqmWXafBwnQ=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.17o6vjuqsr.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.ot20abow9f.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -36,7 +36,7 @@
       "System.Text.Json.jr7ah4dmx1.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.r3pajpjfnd.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.ziomo2pras.wasm": "System.Private.CoreLib.wasm",
-      "KFWeb.IGKarabagh.28za2w7ad0.wasm": "KFWeb.IGKarabagh.wasm",
+      "KFWeb.IGKarabagh.uxx8gcnk0x.wasm": "KFWeb.IGKarabagh.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.xto5am0qhx.js": "dotnet.native.js",
       "dotnet.native.6buk8i5pk6.wasm": "dotnet.native.wasm",
@@ -95,7 +95,7 @@
       "System.Text.Encodings.Web.ifs5a901k1.wasm": "sha256-0pI1j/Zg5vLeeWfzHe25ZNTUkGImNi+puc0csHLdA4s=",
       "System.Text.Json.jr7ah4dmx1.wasm": "sha256-MSkotlKAR0rFnfDk61KuW0o4JWk31XBrYRz0JfrnNw4=",
       "System.Text.RegularExpressions.r3pajpjfnd.wasm": "sha256-l4SnmjquJFcc091mXH999KwaayPLidng6HuZ7aQ9PmA=",
-      "KFWeb.IGKarabagh.28za2w7ad0.wasm": "sha256-0oJEtRvp4oxTLD3npwdk6qVzZ+aoZ4PFlCsbMJmBk/4="
+      "KFWeb.IGKarabagh.uxx8gcnk0x.wasm": "sha256-LnKE7sRM8fTEAT0jmxwG5Vq9hQEpfdtZEiuoCdHUjPQ="
     }
   },
   "cacheBootResources": true,
